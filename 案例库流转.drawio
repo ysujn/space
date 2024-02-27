@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:28:36.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="iW_m0dvOkSIIWoV8SiDZ" version="23.1.7" type="github">
+  <diagram name="第 1 页" id="KwNaoLDs-uKCv6CFQYQi">
+    <mxGraphModel dx="1339" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-1" target="jXoJw1YNKyKEmxoHj1gk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-1" value="CEP&lt;br&gt;TS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-2" target="jXoJw1YNKyKEmxoHj1gk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-2" value="服务单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-3" target="jXoJw1YNKyKEmxoHj1gk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="430" />
+              <mxPoint x="320" y="431" />
+              <mxPoint x="730" y="431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-3" value="400工单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-4" target="jXoJw1YNKyKEmxoHj1gk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-4" target="jXoJw1YNKyKEmxoHj1gk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-4" value="服务助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-5" value="技术单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-7" value="案例库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="jXoJw1YNKyKEmxoHj1gk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-1" target="jXoJw1YNKyKEmxoHj1gk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jXoJw1YNKyKEmxoHj1gk-5" target="jXoJw1YNKyKEmxoHj1gk-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="120" as="sourcePoint" />
+            <mxPoint x="630" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXoJw1YNKyKEmxoHj1gk-23" value="1 sonar 服务单从TS获取详情后同步给案例库&lt;br&gt;2 sonar 把服务单同步给案例库，TS把技术单同步给案例库，案例库自己组装&lt;br&gt;3 离线数仓数据组装好之后，案例库直接读取数仓的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="310" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
